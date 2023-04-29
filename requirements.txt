@@ -1,0 +1,7 @@
+pandas
+selenium
+selenium-requests
+webdriver-manager
+pyspark
+pytest
+apache-airflow-providers-apache-spark
