@@ -1,4 +1,4 @@
 *.log
 .pytest_cache/
 *.pvc
-./logs
+logs/
